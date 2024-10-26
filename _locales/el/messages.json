@@ -120,7 +120,7 @@
     "description": "Message that user is required to acknowledge before clearing all data."
   },
   "delete_all": {
-    "message": "Επαναφορά Επαληθευτή"
+    "message": "Επαναφορά Authenticator"
   },
   "delete_all_warning": {
     "message": "Αυτό θα διαγράψει όλα σας τα δεδομένα και θα επαναφέρει πλήρως τον Επαληθευτή. Δε θα μπορείτε να ανακτήσετε τυχόν διαγραμμένα δεδομένα, γι' αυτό σας συνιστούμε να δημιουργήσετε ένα αντίγραφο ασφαλείας πριν την επαναφορά."
