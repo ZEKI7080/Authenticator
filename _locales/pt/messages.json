@@ -20,7 +20,7 @@
     "description": "QR Error."
   },
   "errorsecret": {
-    "message": "Invalid account secret",
+    "message": "Segredo de conta inválido",
     "description": "Secret Error."
   },
   "add_code": {
@@ -36,11 +36,11 @@
     "description": "Manual Entry."
   },
   "migration_fail": {
-    "message": "Import failed. If you are migrating data from Google Authenticator, please re-export your data from Google Authenticator and try again.",
+    "message": "A importação falhou. Se estiver a migrar dados do Google Authenticator, volte a exportar os seus dados do Google Authenticator e tente novamente.",
     "description": "Import migration data failed."
   },
   "migration_partly_fail": {
-    "message": "Some account data was not imported successfully.",
+    "message": "Alguns dados de conta não foram importados com sucesso.",
     "description": "Some migration data is broken."
   },
   "close": {
@@ -120,7 +120,7 @@
     "description": "Message that user is required to acknowledge before clearing all data."
   },
   "delete_all": {
-    "message": "Redefinir Autenticação"
+    "message": "Redefinir autenticação"
   },
   "delete_all_warning": {
     "message": "Irá apagar todos os seus dados e redefinir a autenticação completamente. Não será possível recuperar quaisquer dados apagados! Deve considerar guardar uma cópia de segurança antes de redefinir a autenticação."
@@ -190,7 +190,7 @@
     "description": "Capture Failed"
   },
   "capture_local_file_failed": {
-    "message": "Are you trying to scan QR code from a local file? Use Import QR Image Backup instead.",
+    "message": "Está a tentar digitalizar um código QR a partir de um ficheiro local? Em vez disso, utilize Importar código QR.",
     "description": "Import QR image backup instead of scan local image"
   },
   "based_on_time": {
@@ -230,7 +230,7 @@
     "description": "Import qr image backup."
   },
   "import_qr_images": {
-    "message": "Import QR Images",
+    "message": "Importar imagens QR",
     "description": "Import qr images. Shown as add account method."
   },
   "import_backup_code": {
@@ -238,11 +238,11 @@
     "description": "Import backup code."
   },
   "import_otp_urls": {
-    "message": "Import OTP URLs",
+    "message": "Importar URLs OTP",
     "description": "Import OTP URLs. Shown as add account method."
   },
   "import_backup_qr_partly_failed": {
-    "message": "Import successful, but some QR codes could not be recognized.",
+    "message": "Importação bem sucedida, mas alguns códigos QR não foram reconhecidos.",
     "description": "Import successful, but some QR image cannot be recognized."
   },
   "import_backup_qr_in_batches": {
@@ -290,7 +290,7 @@
     "description": "Edit"
   },
   "manual_dropbox": {
-    "message": "Manual Backup",
+    "message": "Cópia de segurança manual",
     "description": "Manual backup"
   },
   "use_autofill": {
@@ -314,11 +314,11 @@
     "description": "Dark theme"
   },
   "theme_simple": {
-    "message": "Simple",
+    "message": "Simples",
     "description": "Simple theme"
   },
   "theme_compact": {
-    "message": "Compact",
+    "message": "Compacto",
     "description": "Compact theme"
   },
   "theme_high_contrast": {
@@ -326,7 +326,7 @@
     "description": "High Contrast theme"
   },
   "theme_flat": {
-    "message": "Flat",
+    "message": "Plano",
     "description": "Flat theme"
   },
   "storage_sync_info": {
@@ -334,7 +334,7 @@
     "description": "3rd party backup info"
   },
   "browser_sync": {
-    "message": "Browser Sync",
+    "message": "Sincronização do navegador",
     "description": "Storage location"
   },
   "sign_in": {
@@ -342,11 +342,11 @@
     "description": "Sign in to 3rd party storage services"
   },
   "sign_in_business": {
-    "message": "Sign in (Business)",
+    "message": "Entrar (Empresas)",
     "description": "Sign in to 3rd party storage services"
   },
   "onedrive_business_perms": {
-    "message": "Why do business accounts require more permissions?"
+    "message": "Porque é que as contas empresariais requerem mais permissões?"
   },
   "log_out": {
     "message": "Sair",
@@ -405,120 +405,120 @@
     "message": "Filtro Inteligente"
   },
   "backup": {
-    "message": "Backup"
+    "message": "Cópia de segurança"
   },
   "backup_file_info": {
-    "message": "Backup your data to a file."
+    "message": "Faça uma cópia de segurança dos seus dados para um ficheiro."
   },
   "password_policy_default_hint": {
-    "message": "Your password does not meet your organization's security requirements. Contact your administrator for more information."
+    "message": "A sua palavra-passe não atende aos requisitos de segurança da sua organização. Contacte o seu administrador para mais informações."
   },
   "advisor": {
-    "message": "Advisor"
+    "message": "Assessor"
   },
   "advisor_insight_password_not_set": {
-    "message": "Set a password to protect your data."
+    "message": "Defina uma palavra-passe para proteger os seus dados."
   },
   "advisor_insight_auto_lock_not_set": {
-    "message": "Enable auto-lock to protect your data."
+    "message": "Ative o bloqueio automático para proteger os seus dados."
   },
   "advisor_insight_browser_sync_not_enabled": {
-    "message": "Browser sync is disabled. Enabling it allows accounts to be synced across browsers."
+    "message": "A sincronização do navegador está desativada. Ativá-la permite sincronizar contas entre navegadores."
   },
   "advisor_insight_auto_fill_not_enabled": {
-    "message": "Autofill can be enabled to automatically fill codes into websites."
+    "message": "O preenchimento automático pode ser ativado para preencher automaticamente os códigos em sites."
   },
   "advisor_insight_smart_filter_not_enabled": {
-    "message": "Enabling smart filter allows for quick access to accounts."
+    "message": "Ativar o filtro inteligente permite acesso rápido às contas."
   },
   "show_all_insights": {
-    "message": "Show all insights."
+    "message": "Mostrar todas as recomendações."
   },
   "no_insight_available": {
-    "message": "No insights found, everything looks good!"
+    "message": "Nenhuma recomendação encontrada. Parece que está tudo bem!"
   },
   "danger": {
-    "message": "Danger"
+    "message": "Perigo"
   },
   "warning": {
-    "message": "Warning"
+    "message": "Aviso"
   },
   "info": {
     "message": "Info"
   },
   "dismiss": {
-    "message": "Dismiss"
+    "message": "Dispensar"
   },
   "learn_more": {
-    "message": "Learn more"
+    "message": "Saiba mais"
   },
   "enable_context_menu": {
-    "message": "Add to context menu"
+    "message": "Adicionar ao menu de contexto"
   },
   "no_entires": {
-    "message": "No accounts to display. Add your first account now."
+    "message": "Não há contas para mostrar. Adicione a sua primeira conta agora."
   },
   "permissions": {
-    "message": "Permissions"
+    "message": "Permissões"
   },
   "permission_revoke": {
-    "message": "Revoke"
+    "message": "Revogar"
   },
   "permission_show_required_permissions": {
-    "message": "Show non-revocable permissions"
+    "message": "Mostrar permissões não revogáveis"
   },
   "permission_required": {
-    "message": "This is a required permission and cannot be revoked."
+    "message": "Esta é uma permissão necessária e não pode ser revogada."
   },
   "permission_active_tab": {
-    "message": "Access to the current tab to scan QR codes."
+    "message": "Acesso ao separador atual para procurar códigos QR."
   },
   "permission_storage": {
-    "message": "Access to browser storage to store account data."
+    "message": "Acesso ao armazenamento do navegador para armazenar dados da conta."
   },
   "permission_identity": {
-    "message": "Allows sign in to 3rd party storage services."
+    "message": "Permite iniciar sessão em serviços de armazenamento de terceiros."
   },
   "permission_alarms": {
-    "message": "Allows auto-lock to work."
+    "message": "Permite o funcionamento do bloqueio automático."
   },
   "permission_scripting": {
-    "message": "Inject scripts into he current tab to scan QR codes and allow auto-fill to work."
+    "message": "Injetar scripts no separador atual para procurar códigos QR e permitir o preenchimento automático."
   },
   "permission_clipboard_write": {
-    "message": "Grants write-only access to the clipboard to copy codes to clipboard when you click on the account."
+    "message": "Concede acesso apenas para escrita à área de transferência para poder copiar códigos para a área de transferência quando clicar na conta."
   },
   "permission_context_menus": {
-    "message": "Adds Authenticator to context menu."
+    "message": "Adiciona o Authenticator ao menu de contexto."
   },
   "permission_sync_clock": {
-    "message": "Allows clock sync with Google."
+    "message": "Permite a sincronização do relógio com a Google."
   },
   "permission_dropbox": {
-    "message": "Allows backup to Dropbox."
+    "message": "Permite cópia de segurança no Dropbox."
   },
   "permission_dropbox_cannot_revoke": {
-    "message": "You must disable Dropbox backup first."
+    "message": "Deve primeiro desativar a cópia de segurança no Dropbox."
   },
   "permission_drive": {
-    "message": "Allows backup to Google Drive."
+    "message": "Permite cópia de segurança no Google Drive."
   },
   "permission_drive_cannot_revoke": {
-    "message": "You must disable Google Drive backup first."
+    "message": "Deve primeiro desativar a cópia de segurança no Google Drive."
   },
   "permission_onedrive": {
-    "message": "Allows backup to OneDrive."
+    "message": "Permite cópia de segurança no OneDrive."
   },
   "permission_onedrive_cannot_revoke": {
-    "message": "You must disable OneDrive backup first."
+    "message": "Deve primeiro desativar a cópia de segurança no OneDrive."
   },
   "permission_unknown_permission": {
-    "message": "Unknown permission. If see this message, please send a bug report."
+    "message": "Permissão desconhecida. Se vê esta mensagem, faça o favor de enviar um relatório de erros."
   },
   "phrase_wrong": {
-    "message": "Password incorrect"
+    "message": "Palavra-passe incorreta"
   },
   "activate_auto_filter": {
-    "message": "Warning: Smart filter loosely matches the domain name to an account. Always verify that you are on the correct website before entering a code!"
+    "message": "Aviso: O filtro inteligente faz uma correspondência imprecisa entre o nome de domínio e uma conta. Verifique sempre se está no site correto antes de introduzir um código!"
   }
 }
